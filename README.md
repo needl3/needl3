@@ -14,7 +14,4 @@
 <a href="https://t.me/n33d13" target="blank"><img align=center height=30 width=30 src="https://user-images.githubusercontent.com/57314527/155124256-296b8de3-227d-4ec4-9176-5c01c0df17f8.png"/></a>
 </p>
 
-<p align="center">Solve this readme puzzle and you'll get free lunch from me.</p>
-<a href="" target="blank"></a>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=needl3&label=Profile%20views&color=0e75b6&style=flat" alt="needl3" /> </p>
