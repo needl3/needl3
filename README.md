@@ -1,11 +1,3 @@
-<style>
-    p{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-wrap: wrap;
-    }
-</style>
 <h3 align="center">Stop yawning, I lazy piece of sheep.</h3>
 
 -   💬 Ask me about **Linux**
