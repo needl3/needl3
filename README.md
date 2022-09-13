@@ -9,6 +9,7 @@
 <a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/color/48/undefined/nodejs.png" alt="nodejs"></a>
 <a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/color/48/undefined/django.png" alt="django"></a>
 <a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/fluency/48/undefined/azure-1.png" alt="azure"></a>
+<a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/fluency/344/docker.png" alt="docker" width=40 height=40></a>
 <a href="#" target="_blank" rel="nonreferrer"><img src="" alt=""></a>
 
 </p>
