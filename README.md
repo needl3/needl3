@@ -1,25 +1,220 @@
-<h3 align="center">Stop yawning, I lazy piece of sheep.</h3>
-
--   💬 Ask me about **Linux**
-
-<h3 align="center">I have used</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="javascript"></a>
-<a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/color/48/undefined/nodejs.png" alt="nodejs"></a>
-<a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/color/48/undefined/django.png" alt="django"></a>
-<a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/fluency/48/undefined/azure-1.png" alt="azure"></a>
-<a href="#" target="_blank" rel="nonreferrer"><img src="https://img.icons8.com/fluency/344/docker.png" alt="docker" width=40 height=40></a>
-<a href="#" target="_blank" rel="nonreferrer"><img src="" alt=""></a>
-
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=needl3&theme=dark&" alt="needl3" /></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.youtube.com/channel/UCwRBY4Mgrprrr0uigY0Yc4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwrby4mgrprrr0uigy0yc4w" height="30" width="40" /></a>
-<a href="https://t.me/n33d13" target="blank"><img align=center height=30 width=30 src="https://user-images.githubusercontent.com/57314527/155124256-296b8de3-227d-4ec4-9176-5c01c0df17f8.png"/></a>
-</p>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=needl3&label=Profile%20views&color=0e75b6&style=flat" alt="needl3" /> </p>
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .center {
+                margin: auto;
+            }
+            .aspect {
+                width: 75%;
+            }
+            .border {
+                border: 2px solid #0aad54;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 align='center'>
+            <img 
+                    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0aad54&center=true&vCenter=true&width=435&lines=Hi! I'm Anish.; Nice to see you land here.;" 
+                    alt="Typing SVG"
+                    />
+        </h1>
+        <p class='center border aspect' style='padding: 20px;'>
+        I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan University. I like computers, cycling, running and peaceful non verbal music.
+        </p>
+        <hr style='width: 60%'>
+        <div style='display: flex; column-gap: 1em; margin: auto; justify-content: center;padding: 1em 0em'>
+            <div class='' style='padding: 1em 2em 1em 0em;font-size: 1.1em'>
+                <h2>What's up with me?</h2>
+                <ul style='list-style: none; padding-left: 0px'>
+                    <li>🔭 Working on a NextJs project.</li>
+                    <li>🧐 Learning about Rust.</li>
+                    <li>💬 Hit me about Linux or anything interesting.</li>
+                    <li>🍥 Suggest me some peaceful animes.</li>
+                    <li>🚴 Lets cycle together.</li>
+                </ul>
+            </div>
+            <img src='https://i.pinimg.com/originals/97/3e/e7/973ee7671f6b91a56fb66e7bfef2f292.gif' height='300px'/>
+        </div>
+        <hr style='width: 60%'>
+        <h2 align='center'>Work Environment</h2>
+        <ul style='display: flex; column-gap: 1em; list-style: none;justify-content: center;'>
+            <li>
+                <img src="https://img.shields.io/badge/os-arch_linux-0aad54?style=for-the-badge&logo=arch linux&logoColor=white"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/wm-dwm-0aad54?style=for-the-badge&logo=dwm&logoColor=white"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/editor-neovim-0aad54.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/shell-bash-0aad54.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/terminal-st-0aad54.svg?&style=for-the-badge&logo=suckless&logoColor=white"/>
+            </li>
+        </ul>
+        <hr style='width: 60%'>
+        <h2 align='center'>Languages</h2>
+        <ul style='display: flex; column-gap: 1em; list-style: none;justify-content: center;'>
+            <li>
+                <img src="https://img.shields.io/badge/c-0aad54.svg?&style=for-the-badge&logo=c&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/cpp-0aad54.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/typescript-0aad54.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/javascript-0aad54.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/python-0aad54.svg?&style=for-the-badge&logo=python&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/learning-rust-0aad54.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/bash-0aad54.svg?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
+            </li>
+        </ul>
+        <hr style='width: 60%'>
+        <h2 align='center'>Tools and Services</h2>
+        <ul style="display: flex; justify-content: center;column-gap: 1em;list-style: none; overflow-wrap: break-word">
+            <li>
+                <img src="https://img.shields.io/badge/cloud-azure-0aad54.svg?&style=for-the-badge&logo=microsoft azure&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/tool-docker-0aad54.svg?&style=for-the-badge&logo=docker&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/tool-git/github-0aad54.svg?&style=for-the-badge&logo=git&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/ci/cd-github actions-0aad54.svg?&style=for-the-badge&logo=github actions&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/rredis-0aad54.svg?&style=for-the-badge&logo=redis&logoColor=black"/>
+            </li>
+        </ul>
+        <hr style='width: 60%'>
+        <h2 align='center'>Frameworks And Libraries</h2>
+        <ul style="display: flex; justify-content: center;column-gap: 1em;list-style: none; overflow-wrap: break-word">
+            <li>
+                <img src="https://img.shields.io/badge/express-0aad54.svg?&style=for-the-badge&logo=express&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/react-0aad54.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/tailwind-0aad54.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/node-0aad54.svg?&style=for-the-badge&logo=node.js&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/redux-0aad54.svg?&style=for-the-badge&logo=redux&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/django-0aad54.svg?&style=for-the-badge&logo=django&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/flask-0aad54.svg?&style=for-the-badge&logo=flask&logoColor=black"/>
+            </li>
+        </ul>
+        <ul style="display: flex; justify-content: center;column-gap: 1em;list-style: none; overflow-wrap: break-word">
+            <li>
+                <img src="https://img.shields.io/badge/sfml-0aad54.svg?&style=for-the-badge&logo=sfml&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/flask-0aad54.svg?&style=for-the-badge&logo=flask&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/learning-nextjs-0aad54.svg?&style=for-the-badge&logo=next.js&logoColor=black"/>
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/selenium-0aad54.svg?&style=for-the-badge&logo=selenium&logoColor=black"/>
+            </li>
+        </ul>
+        <hr style='width: 60%'>
+        <h2 align='center'>Databases</h2>
+        <ul style="display: flex; justify-content: center;column-gap: 1em;list-style: none">
+            <li>
+                <img src="https://img.shields.io/badge/mongodb-0aad54.svg?&style=for-the-badge&logo=mongodb&logoColor=black">
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/mysql-0aad54.svg?&style=for-the-badge&logo=mysql&logoColor=black">
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/learning-postgresql-0aad54.svg?&style=for-the-badge&logo=postgresql&logoColor=black">
+            </li>
+            <li>
+                <img src="https://img.shields.io/badge/sqlite-0aad54.svg?&style=for-the-badge&logo=sqlite&logoColor=black">
+            </li>
+        </ul>
+        <h2 align="center">Statistics</h2>
+        <p align="center">
+            <img 
+                align="center"
+                height="150vh"
+                alt="Most-Used-Language"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=needl3&show_icons=true&theme=dark&layout=compact"
+            />
+            <img
+                align="center"
+                height="150vh"
+                alt="Github-Stats"
+                src="https://github-readme-stats.vercel.app/api?username=needl3&show_icons=true&theme=dark"
+            />
+        </p>
+        <p align="center">
+            <img
+                align="center"
+                height="150vh"
+                alt="Profile-Overview"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=needl3&theme=dark"
+            />
+        </p>
+        <h2 style='text-align: center;'>
+            Find me at:
+        </h2>
+        <ul style='display: flex;column-gap: 1em;list-style:none;justify-content: center'>
+            <li>
+                <a href="anishchapagai.com.np">
+                    <img src="https://img.shields.io/badge/portfolio-0aad54.svg?&style=for-the-badge&logo=internetexplorer&logoColor=black"/>
+                </a>
+            </li>
+            <li>
+                <a href="https://facebook.com/0xanishchapagai">
+                    <img src="https://img.shields.io/badge/Facebook-0aad54.svg?&style=for-the-badge&logo=Facebook&logoColor=black"/>
+                </a>
+            </li>
+            <li>
+                <a href="https://instagram.com/0xanishchapagai">
+                    <img src="https://img.shields.io/badge/Instagram-0aad54.svg?&style=for-the-badge&logo=Instagram&logoColor=black"/>
+                </a>
+            </li>
+            <li>
+                <a href="https://linkedin.com/in/an1sh">
+                    <img src="https://img.shields.io/badge/LinkedIn-0aad54.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/>
+                </a>
+            </li>
+            <li>
+                <a href="https://hackerrank.com/needl3">
+                    <img src="https://img.shields.io/badge/Hackerrank-0aad54.svg?&style=for-the-badge&logo=hackerrank&logoColor=black"/>
+                </a>
+            </li>
+            <li>
+                <a href="https://tryhackme.com/p/nerdyotaku">
+                    <img src="https://img.shields.io/badge/TryHackMe-0aad54.svg?&style=for-the-badge&logo=tryhackme&logoColor=black"/>
+                </a>
+            </li>
+        </ul>
+        <p align="center">
+            <img src="https://komarev.com/ghpvc/?username=needl3&label= 👀 &color=0e75b6&style=for-the-badge" alt="needl3" />
+        </p>
+    </body>
+</html>
