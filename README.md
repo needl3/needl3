@@ -37,6 +37,8 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
         <img src="https://img.shields.io/badge/python-0aad54.svg?&style=for-the-badge&logo=python&logoColor=black"/>
         <img src="https://img.shields.io/badge/learning-rust-0aad54.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
         <img src="https://img.shields.io/badge/bash-0aad54.svg?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
+        <img src="https://img.shields.io/badge/html-0aad54.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
+        <img src="https://img.shields.io/badge/css-0aad54.svg?&style=for-the-badge&logo=css3&logoColor=black"/>
 </div>
 <hr>
 <h2 align='center'>Tools and Services</h2>
@@ -45,7 +47,7 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
         <img src="https://img.shields.io/badge/tool-docker-0aad54.svg?&style=for-the-badge&logo=docker&logoColor=black"/>
         <img src="https://img.shields.io/badge/tool-git/github-0aad54.svg?&style=for-the-badge&logo=git&logoColor=black"/>
         <img src="https://img.shields.io/badge/ci/cd-github actions-0aad54.svg?&style=for-the-badge&logo=github actions&logoColor=black"/>
-        <img src="https://img.shields.io/badge/rredis-0aad54.svg?&style=for-the-badge&logo=redis&logoColor=black"/>
+        <img src="https://img.shields.io/badge/tool-redis-0aad54.svg?&style=for-the-badge&logo=redis&logoColor=black"/>
 </div>
 <hr>
 <h2 align='center'>Frameworks And Libraries</h2>
@@ -60,7 +62,6 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
 </div>
 <div align='center'>
         <img src="https://img.shields.io/badge/sfml-0aad54.svg?&style=for-the-badge&logo=sfml&logoColor=black"/>
-        <img src="https://img.shields.io/badge/flask-0aad54.svg?&style=for-the-badge&logo=flask&logoColor=black"/>
         <img src="https://img.shields.io/badge/learning-nextjs-0aad54.svg?&style=for-the-badge&logo=next.js&logoColor=black"/>
         <img src="https://img.shields.io/badge/selenium-0aad54.svg?&style=for-the-badge&logo=selenium&logoColor=black"/>
 </div>
