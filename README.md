@@ -5,7 +5,7 @@
             />
 </h1>
 <p>
-I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan University. I like computers, cycling, running and peaceful non verbal music.
+I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan University. I like computers, cycling, running and non verbal music.
 </p>
 <hr>
 <img align='right' src='https://github.com/needl3/needl3/assets/57314527/b7257c2e-0671-4f13-a3e1-e1dbae52446c'/>
