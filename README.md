@@ -34,6 +34,7 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
         <img src="https://img.shields.io/badge/cpp-0aad54.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/>
         <img src="https://img.shields.io/badge/typescript-0aad54.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
         <img src="https://img.shields.io/badge/javascript-0aad54.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/node-0aad54.svg?&style=for-the-badge&logo=node.js&logoColor=black"/>
         <img src="https://img.shields.io/badge/python-0aad54.svg?&style=for-the-badge&logo=python&logoColor=black"/>
         <img src="https://img.shields.io/badge/learning-rust-0aad54.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
         <img src="https://img.shields.io/badge/bash-0aad54.svg?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
@@ -47,23 +48,25 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
         <img src="https://img.shields.io/badge/tool-docker-0aad54.svg?&style=for-the-badge&logo=docker&logoColor=black"/>
         <img src="https://img.shields.io/badge/tool-git/github-0aad54.svg?&style=for-the-badge&logo=git&logoColor=black"/>
         <img src="https://img.shields.io/badge/ci/cd-github actions-0aad54.svg?&style=for-the-badge&logo=github actions&logoColor=black"/>
-        <img src="https://img.shields.io/badge/tool-redis-0aad54.svg?&style=for-the-badge&logo=redis&logoColor=black"/>
+        <img src="https://img.shields.io/badge/tool-postman-0aad54.svg?&style=for-the-badge&logo=postman&logoColor=black"/>
 </div>
 <hr>
 <h2 align='center'>Frameworks And Libraries</h2>
 <div align='center'>
+        <img src="https://img.shields.io/badge/nextjs-0aad54.svg?&style=for-the-badge&logo=next.js&logoColor=black"/>
         <img src="https://img.shields.io/badge/express-0aad54.svg?&style=for-the-badge&logo=express&logoColor=black"/>
         <img src="https://img.shields.io/badge/react-0aad54.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/tailwind-0aad54.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
-        <img src="https://img.shields.io/badge/node-0aad54.svg?&style=for-the-badge&logo=node.js&logoColor=black"/>
         <img src="https://img.shields.io/badge/redux-0aad54.svg?&style=for-the-badge&logo=redux&logoColor=black"/>
         <img src="https://img.shields.io/badge/django-0aad54.svg?&style=for-the-badge&logo=django&logoColor=black"/>
         <img src="https://img.shields.io/badge/flask-0aad54.svg?&style=for-the-badge&logo=flask&logoColor=black"/>
 </div>
 <div align='center'>
+        <img src="https://img.shields.io/badge/mongoose-0aad54.svg?&style=for-the-badge&logo=mongoose&logoColor=black"/>
+        <img src="https://img.shields.io/badge/prisma-0aad54.svg?&style=for-the-badge&logo=prisma&logoColor=black"/>
         <img src="https://img.shields.io/badge/sfml-0aad54.svg?&style=for-the-badge&logo=sfml&logoColor=black"/>
-        <img src="https://img.shields.io/badge/learning-nextjs-0aad54.svg?&style=for-the-badge&logo=next.js&logoColor=black"/>
+        <img src="https://img.shields.io/badge/tailwind-0aad54.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
         <img src="https://img.shields.io/badge/selenium-0aad54.svg?&style=for-the-badge&logo=selenium&logoColor=black"/>
+        <img src="https://img.shields.io/badge/material ui-0aad54.svg?&style=for-the-badge&logo=mui&logoColor=black"/>
 </div>
 <hr>
 <h2 align='center'>Databases</h2>
@@ -79,7 +82,7 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
         align="center"
         height="150vh"
         alt="Most-Used-Language"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=needl3&show_icons=true&theme=dark&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=needl3&show_icons=true&theme=dark&layout=compact&exclude_repo=ML,BasicMLProjects"
     />
     <img
         align="center"
