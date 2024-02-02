@@ -32,6 +32,7 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
 <div align='center'>
         <img src="https://img.shields.io/badge/c-0aad54.svg?&style=for-the-badge&logo=c&logoColor=black"/>
         <img src="https://img.shields.io/badge/cpp-0aad54.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/>
+        <img src="https://img.shields.io/badge/go-0aad54.svg?&style=for-the-badge&logo=go&logoColor=black"/>
         <img src="https://img.shields.io/badge/typescript-0aad54.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
         <img src="https://img.shields.io/badge/javascript-0aad54.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/node-0aad54.svg?&style=for-the-badge&logo=node.js&logoColor=black"/>
@@ -59,6 +60,7 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
         <img src="https://img.shields.io/badge/redux-0aad54.svg?&style=for-the-badge&logo=redux&logoColor=black"/>
         <img src="https://img.shields.io/badge/django-0aad54.svg?&style=for-the-badge&logo=django&logoColor=black"/>
         <img src="https://img.shields.io/badge/flask-0aad54.svg?&style=for-the-badge&logo=flask&logoColor=black"/>
+        <img src="https://img.shields.io/badge/reactnative-0aad54.svg?&style=for-the-badge&logo=react-native&logoColor=black"/>
 </div>
 <div align='center'>
         <img src="https://img.shields.io/badge/mongoose-0aad54.svg?&style=for-the-badge&logo=mongoose&logoColor=black"/>
@@ -67,6 +69,7 @@ I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan 
         <img src="https://img.shields.io/badge/tailwind-0aad54.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
         <img src="https://img.shields.io/badge/selenium-0aad54.svg?&style=for-the-badge&logo=selenium&logoColor=black"/>
         <img src="https://img.shields.io/badge/material ui-0aad54.svg?&style=for-the-badge&logo=mui&logoColor=black"/>
+        <img src="https://img.shields.io/badge/echo golang-0aad54.svg?&style=for-the-badge&logo=echo&logoColor=black"/>
 </div>
 <hr>
 <h2 align='center'>Databases</h2>
