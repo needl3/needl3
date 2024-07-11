@@ -4,18 +4,13 @@
             alt="Typing SVG"
             />
 </h1>
-<p>
-I'm a Computer Engineering undergraduate in IOE Paschimanchal Campus, Tribhuvan University. I like computers, cycling, running and non verbal music.
-</p>
-<hr>
 <img align='right' src='https://github.com/needl3/needl3/assets/57314527/b7257c2e-0671-4f13-a3e1-e1dbae52446c'/>
 <h2>What's up with me?</h2>
 <ul style='list-style: none; padding-left: 0px'>
-    <li>🔭 Working on a NextJs project.</li>
-    <li>🧐 Learning about Rust.</li>
-    <li>💬 Hit me about Linux or anything interesting.</li>
-    <li>🍥 Suggest me some peaceful animes.</li>
-    <li>🚴 Lets cycle together.</li>
+    <li>🔭 Working on a RubyOnRails project.</li>
+    <li>🧐 Learning about Golang.</li>
+    <li>🍥 Suggest me some peaceful anime.</li>
+    <li>🏍️ Lets bike together.</li>
 </ul>
 <br><br><br>
 <hr>
